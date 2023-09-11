@@ -1,9 +1,7 @@
 # Hi 🙌
 
-Thanks for taking a look at my Github!
+I am a web developer who primarily works with Django and Nuxt, and I absolutely love Django!
 
-I am a web developer and develop primarily using Django and Nuxt. (I love Django!)
+Currently, most of my repositories are private, but I have aspirations to contribute to open-source projects, including Django, in the future.
 
-Right now I mainly use private repositories, but in the future I would like to contribute to open source, including Django!
-
-I'm interested in ML these days! Nice to meet you!
+I've developed an interest in machine learning recently as well. Nice to meet you!
