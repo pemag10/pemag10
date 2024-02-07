@@ -6,4 +6,3 @@ Currently, most of my repositories are private, but I have aspirations to contri
 
 I've developed an interest in machine learning recently as well. Nice to meet you!
 
-[![sailnov's GitHub stats](https://github-readme-stats.vercel.app/api?username=sailnov)](https://github.com/anuraghazra/github-readme-stats)
